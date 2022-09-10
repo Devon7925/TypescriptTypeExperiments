@@ -10,6 +10,10 @@ Some of these are already done by me or other people, I just need to copy them o
     * ~~Joining~~ (See [ArrayOperations.ts](ArrayOperations.ts))
     * Mapping (This will be jank because you con't currently pass a generic type into a generic type)
     * Filtering (This will be jank because you con't currently pass a generic type into a generic type)
+* ~~Object Operations~~ (See [ObjectOperations.ts](ObjectOperations.ts))
+    * ~~Keys~~
+    * ~~Values~~
+    * ~~Entries~~
 * Numbers
     * Addition
     * Subtraction
